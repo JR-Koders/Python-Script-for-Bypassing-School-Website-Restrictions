@@ -16,3 +16,12 @@ Because I coded the script using the _very good request library_, I ensure that 
 By automating the process, the Web Unblocker allows users to swiftly find accessible content, making it a handy tool for students and individuals navigating restrictive online environments.
 
 **NOTE** Use it responsibly and in compliance with your school's policies, don't use it for anything illegal!
+
+---
+
+## CREDIT
+
+All credit goes to [JR-Koders](https://youtube.com/@JR-Koders)
+_Want to learn new things about IT?_
+
+**JR-Koders** is the way-to-go
